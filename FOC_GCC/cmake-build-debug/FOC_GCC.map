@@ -1,0 +1,2162 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+                              CMakeFiles/FOC_GCC.elf.dir/libraries/cmsis/cm4/device_support/system_at32f435_437.c.obj (__aeabi_uldivmod)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (exit)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-impure.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o) (_global_impure_ptr)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-init.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memcpy.o)
+                              CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj (memcpy)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memset.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (memset)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o) (__call_exitprocs)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-atexit.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o) (atexit)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fini.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__atexit.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-atexit.o) (__register_exitproc)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .rodata        0x00000000       0x24 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x00000000       0x7c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.exidx     0x00000000       0x10 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x00000000       0x1c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/cmsis/cm4/device_support/system_at32f435_437.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/cmsis/cm4/device_support/system_at32f435_437.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/cmsis/cm4/device_support/system_at32f435_437.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_acc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_acc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_acc.c.obj
+ .debug_info    0x00000000       0x64 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_acc.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_acc.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_acc.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_acc.c.obj
+ .debug_str     0x00000000      0x1ca CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_acc.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_acc.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_acc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_adc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_adc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_adc.c.obj
+ .debug_info    0x00000000       0x64 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_adc.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_adc.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_adc.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_adc.c.obj
+ .debug_str     0x00000000      0x1ca CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_adc.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_adc.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_adc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_can.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_can.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_can.c.obj
+ .debug_info    0x00000000       0x64 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_can.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_can.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_can.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_can.c.obj
+ .debug_str     0x00000000      0x1ca CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_can.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_can.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_can.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crc.c.obj
+ .debug_info    0x00000000       0x64 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crc.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crc.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crc.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crc.c.obj
+ .debug_str     0x00000000      0x1ca CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crc.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crc.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .text.crm_lext_bypass
+                0x00000000       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .text.crm_hext_bypass
+                0x00000000       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .text.crm_interrupt_flag_get
+                0x00000000       0xdc CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .text.crm_hick_clock_trimming_set
+                0x00000000       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .text.crm_hick_clock_calibration_set
+                0x00000000       0x2c CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .text.crm_periph_reset
+                0x00000000       0x3c CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .text.crm_periph_lowpower_mode_enable
+                0x00000000       0x3c CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .text.crm_flag_clear
+                0x00000000       0x9c CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .text.crm_ertc_clock_select
+                0x00000000       0x1c CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .text.crm_ertc_clock_enable
+                0x00000000       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .text.crm_usb_clock_div_set
+                0x00000000       0x14 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .text.crm_clock_failure_detection_enable
+                0x00000000       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .text.crm_battery_powered_domain_reset
+                0x00000000       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .text.crm_hick_divider_select
+                0x00000000       0x14 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .text.crm_hick_sclk_frequency_select
+                0x00000000       0x20 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .text.crm_usb_clock_source_select
+                0x00000000       0x24 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .text.crm_clkout_to_tmr10_enable
+                0x00000000       0x14 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .text.crm_clock_out1_set
+                0x00000000       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .text.crm_clock_out2_set
+                0x00000000       0x30 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .text.crm_clkout_div_set
+                0x00000000       0x38 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .text.crm_emac_output_pulse_set
+                0x00000000       0x14 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .text.crm_interrupt_enable
+                0x00000000       0x20 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .text.crm_pll_parameter_calculate
+                0x00000000       0xc8 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dac.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dac.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dac.c.obj
+ .debug_info    0x00000000       0x64 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dac.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dac.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dac.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dac.c.obj
+ .debug_str     0x00000000      0x1ca CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dac.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dac.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dac.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_debug.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_debug.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_debug.c.obj
+ .text.debug_device_id_get
+                0x00000000        0xc CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_debug.c.obj
+ .text.debug_low_power_mode_set
+                0x00000000       0x1c CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_debug.c.obj
+ .text.debug_apb1_periph_mode_set
+                0x00000000       0x1c CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_debug.c.obj
+ .text.debug_apb2_periph_mode_set
+                0x00000000       0x1c CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_debug.c.obj
+ .debug_info    0x00000000      0x525 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_debug.c.obj
+ .debug_abbrev  0x00000000      0x15e CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_debug.c.obj
+ .debug_loc     0x00000000       0xc6 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_debug.c.obj
+ .debug_aranges
+                0x00000000       0x38 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_debug.c.obj
+ .debug_ranges  0x00000000       0x28 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_debug.c.obj
+ .debug_line    0x00000000      0x235 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_debug.c.obj
+ .debug_str     0x00000000      0x471 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_debug.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_debug.c.obj
+ .debug_frame   0x00000000       0x50 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_debug.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_debug.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dma.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dma.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dma.c.obj
+ .debug_info    0x00000000       0x64 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dma.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dma.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dma.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dma.c.obj
+ .debug_str     0x00000000      0x1ca CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dma.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dma.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dma.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dvp.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dvp.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dvp.c.obj
+ .debug_info    0x00000000       0x64 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dvp.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dvp.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dvp.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dvp.c.obj
+ .debug_str     0x00000000      0x1ca CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dvp.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dvp.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dvp.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_edma.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_edma.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_edma.c.obj
+ .debug_info    0x00000000       0x64 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_edma.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_edma.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_edma.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_edma.c.obj
+ .debug_str     0x00000000      0x1cb CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_edma.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_edma.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_edma.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_emac.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_emac.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_emac.c.obj
+ .debug_info    0x00000000       0x64 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_emac.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_emac.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_emac.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_emac.c.obj
+ .debug_str     0x00000000      0x1cb CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_emac.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_emac.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_emac.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_ertc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_ertc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_ertc.c.obj
+ .debug_info    0x00000000       0x64 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_ertc.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_ertc.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_ertc.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_ertc.c.obj
+ .debug_str     0x00000000      0x1cb CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_ertc.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_ertc.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_ertc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_exint.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_exint.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_exint.c.obj
+ .debug_info    0x00000000       0x64 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_exint.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_exint.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_exint.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_exint.c.obj
+ .debug_str     0x00000000      0x1cc CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_exint.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_exint.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_exint.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_flag_get
+                0x00000000       0x50 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_flag_clear
+                0x00000000       0x24 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_operation_status_get
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_bank1_operation_status_get
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_bank2_operation_status_get
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_operation_wait_for
+                0x00000000       0x1e CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_bank1_operation_wait_for
+                0x00000000       0x1e CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_bank2_operation_wait_for
+                0x00000000       0x1e CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_unlock
+                0x00000000       0x1c CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_bank1_unlock
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_bank2_unlock
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_lock
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_bank1_lock
+                0x00000000       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_bank2_lock
+                0x00000000       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_sector_erase
+                0x00000000       0x70 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_block_erase
+                0x00000000       0x70 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_internal_all_erase
+                0x00000000       0x50 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_bank1_erase
+                0x00000000       0x2c CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_bank2_erase
+                0x00000000       0x2c CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_eopb0_config
+                0x00000000       0x48 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_word_program
+                0x00000000       0x60 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_halfword_program
+                0x00000000       0x60 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_byte_program
+                0x00000000       0x60 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_user_system_data_program
+                0x00000000       0x54 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_epp_set
+                0x00000000      0x120 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_epp_status_get
+                0x00000000       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_fap_enable
+                0x00000000       0x84 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_fap_status_get
+                0x00000000       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_user_system_data_erase
+                0x00000000       0x7c CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_ssb_set
+                0x00000000       0x48 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_ssb_status_get
+                0x00000000       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_interrupt_enable
+                0x00000000       0x48 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_slib_enable
+                0x00000000       0x84 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_slib_disable
+                0x00000000       0x30 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_slib_remaining_count_get
+                0x00000000       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_slib_state_get
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_slib_start_sector_get
+                0x00000000       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_slib_inststart_sector_get
+                0x00000000       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_slib_end_sector_get
+                0x00000000       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_crc_calibrate
+                0x00000000       0x3c CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_nzw_boost_enable
+                0x00000000       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text.flash_continue_read_enable
+                0x00000000       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .rodata        0x00000000        0x8 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .debug_info    0x00000000     0x1b1b CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .debug_abbrev  0x00000000      0x305 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .debug_loc     0x00000000      0xdd6 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .debug_aranges
+                0x00000000      0x168 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .debug_ranges  0x00000000      0x158 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .debug_line    0x00000000      0xf9f CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .debug_str     0x00000000      0xc40 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .debug_frame   0x00000000      0x38c CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+ .text.gpio_reset
+                0x00000000      0x114 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+ .text.gpio_input_data_bit_read
+                0x00000000       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+ .text.gpio_input_data_read
+                0x00000000        0x6 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+ .text.gpio_output_data_bit_read
+                0x00000000        0xe CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+ .text.gpio_output_data_read
+                0x00000000        0x6 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+ .text.gpio_bits_write
+                0x00000000        0xa CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+ .text.gpio_port_write
+                0x00000000        0x4 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+ .text.gpio_pin_wp_config
+                0x00000000       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+ .text.gpio_pins_huge_driven_config
+                0x00000000       0x14 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+ .text.gpio_pin_mux_config
+                0x00000000       0x3c CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_i2c.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_i2c.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_i2c.c.obj
+ .debug_info    0x00000000       0x64 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_i2c.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_i2c.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_i2c.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_i2c.c.obj
+ .debug_str     0x00000000      0x1ca CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_i2c.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_i2c.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_i2c.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_misc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_misc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_misc.c.obj
+ .text.nvic_system_reset
+                0x00000000       0x24 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_misc.c.obj
+ .text.nvic_irq_disable
+                0x00000000       0x24 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_misc.c.obj
+ .text.nvic_vector_table_set
+                0x00000000       0x14 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_misc.c.obj
+ .text.nvic_lowpower_mode_config
+                0x00000000       0x1c CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_misc.c.obj
+ .text.systick_clock_source_config
+                0x00000000       0x20 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_misc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_pwc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_pwc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_pwc.c.obj
+ .text.pwc_reset
+                0x00000000       0x1c CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_pwc.c.obj
+ .text.pwc_battery_powered_domain_access
+                0x00000000       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_pwc.c.obj
+ .text.pwc_pvm_level_select
+                0x00000000       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_pwc.c.obj
+ .text.pwc_power_voltage_monitor_enable
+                0x00000000       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_pwc.c.obj
+ .text.pwc_wakeup_pin_enable
+                0x00000000       0x20 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_pwc.c.obj
+ .text.pwc_flag_clear
+                0x00000000       0x28 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_pwc.c.obj
+ .text.pwc_flag_get
+                0x00000000       0x14 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_pwc.c.obj
+ .text.pwc_sleep_mode_enter
+                0x00000000       0x20 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_pwc.c.obj
+ .text.pwc_deep_sleep_mode_enter
+                0x00000000       0x2c CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_pwc.c.obj
+ .text.pwc_voltage_regulate_set
+                0x00000000       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_pwc.c.obj
+ .text.pwc_standby_mode_enter
+                0x00000000       0x28 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_pwc.c.obj
+ .debug_info    0x00000000      0x942 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_pwc.c.obj
+ .debug_abbrev  0x00000000      0x213 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_pwc.c.obj
+ .debug_loc     0x00000000       0xa7 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_pwc.c.obj
+ .debug_aranges
+                0x00000000       0x70 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_pwc.c.obj
+ .debug_ranges  0x00000000       0x60 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_pwc.c.obj
+ .debug_line    0x00000000      0x3b6 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_pwc.c.obj
+ .debug_str     0x00000000      0xaf8 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_pwc.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_pwc.c.obj
+ .debug_frame   0x00000000       0xc8 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_pwc.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_pwc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_qspi.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_qspi.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_qspi.c.obj
+ .debug_info    0x00000000       0x64 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_qspi.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_qspi.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_qspi.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_qspi.c.obj
+ .debug_str     0x00000000      0x1cb CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_qspi.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_qspi.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_qspi.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_scfg.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_scfg.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_scfg.c.obj
+ .debug_info    0x00000000       0x64 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_scfg.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_scfg.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_scfg.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_scfg.c.obj
+ .debug_str     0x00000000      0x1cb CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_scfg.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_scfg.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_scfg.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_sdio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_sdio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_sdio.c.obj
+ .debug_info    0x00000000       0x64 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_sdio.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_sdio.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_sdio.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_sdio.c.obj
+ .debug_str     0x00000000      0x1cb CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_sdio.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_sdio.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_sdio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_spi.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_spi.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_spi.c.obj
+ .debug_info    0x00000000       0x64 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_spi.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_spi.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_spi.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_spi.c.obj
+ .debug_str     0x00000000      0x1ca CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_spi.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_spi.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_spi.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_reset
+                0x00000000      0x200 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_output_default_para_init
+                0x00000000       0x12 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_input_default_para_init
+                0x00000000        0xe CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_brkdt_default_para_init
+                0x00000000       0x12 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_clock_source_div_set
+                0x00000000        0xa CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_repetition_counter_set
+                0x00000000        0xa CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_counter_value_set
+                0x00000000        0x4 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_counter_value_get
+                0x00000000        0x4 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_div_value_set
+                0x00000000        0x4 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_div_value_get
+                0x00000000        0x4 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_output_channel_config
+                0x00000000      0x100 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_output_channel_mode_select
+                0x00000000       0x42 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_period_value_set
+                0x00000000        0x4 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_period_value_get
+                0x00000000        0x4 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_channel_value_set
+                0x00000000       0x24 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_channel_value_get
+                0x00000000       0x28 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_period_buffer_enable
+                0x00000000        0xa CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_output_channel_buffer_enable
+                0x00000000       0x42 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_output_channel_immediately_set
+                0x00000000       0x42 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_output_channel_switch_set
+                0x00000000       0x42 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_one_cycle_mode_enable
+                0x00000000        0xa CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_32_bit_function_enable
+                0x00000000       0x1c CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_overflow_request_source_set
+                0x00000000        0xa CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_overflow_event_disable
+                0x00000000        0xa CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_input_channel_init
+                0x00000000      0x122 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_channel_enable
+                0x00000000       0x56 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_input_channel_filter_set
+                0x00000000       0x38 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_pwm_input_config
+                0x00000000      0x152 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_channel1_input_select
+                0x00000000        0xa CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_input_channel_divider_set
+                0x00000000       0x38 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_primary_mode_select
+                0x00000000        0xa CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_sub_mode_select
+                0x00000000        0xa CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_channel_dma_select
+                0x00000000        0xa CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_hall_select
+                0x00000000        0xa CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_channel_buffer_enable
+                0x00000000        0xa CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_trgout2_enable
+                0x00000000        0xa CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_trigger_input_select
+                0x00000000        0xa CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_sub_sync_mode_set
+                0x00000000        0xa CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_dma_request_enable
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_flag_get
+                0x00000000        0xe CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_event_sw_trigger
+                0x00000000        0x8 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_output_enable
+                0x00000000        0xa CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_internal_clock_set
+                0x00000000        0xa CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_output_channel_polarity_set
+                0x00000000       0x56 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_external_clock_config
+                0x00000000       0x20 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_external_clock_mode1_config
+                0x00000000       0x1a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_external_clock_mode2_config
+                0x00000000       0x12 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_encoder_mode_config
+                0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_force_output_set
+                0x00000000       0x42 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_dma_control_config
+                0x00000000       0x12 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_brkdt_config
+                0x00000000       0x48 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text.tmr_iremap_config
+                0x00000000       0x28 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_usart.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_usart.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_usart.c.obj
+ .debug_info    0x00000000       0x64 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_usart.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_usart.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_usart.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_usart.c.obj
+ .debug_str     0x00000000      0x1cc CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_usart.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_usart.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_usart.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_usb.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_usb.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_usb.c.obj
+ .debug_info    0x00000000       0x64 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_usb.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_usb.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_usb.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_usb.c.obj
+ .debug_str     0x00000000      0x1ca CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_usb.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_usb.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_usb.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_wdt.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_wdt.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_wdt.c.obj
+ .debug_info    0x00000000       0x64 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_wdt.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_wdt.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_wdt.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_wdt.c.obj
+ .debug_str     0x00000000      0x1ca CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_wdt.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_wdt.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_wdt.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_wwdt.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_wwdt.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_wwdt.c.obj
+ .debug_info    0x00000000       0x64 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_wwdt.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_wwdt.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_wwdt.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_wwdt.c.obj
+ .debug_str     0x00000000      0x1cb CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_wwdt.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_wwdt.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_wwdt.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_xmc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_xmc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_xmc.c.obj
+ .debug_info    0x00000000       0x64 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_xmc.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_xmc.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_xmc.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_xmc.c.obj
+ .debug_str     0x00000000      0x1ca CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_xmc.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_xmc.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_xmc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/croutine.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/croutine.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/croutine.c.obj
+ .debug_info    0x00000000       0x72 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/croutine.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/croutine.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/croutine.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/croutine.c.obj
+ .debug_str     0x00000000      0x1d5 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/croutine.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/croutine.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/croutine.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .text.prvTestWaitCondition
+                0x00000000       0x1c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .text.xEventGroupCreateStatic
+                0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .text.xEventGroupCreate
+                0x00000000       0x1c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .text.xEventGroupWaitBits
+                0x00000000      0x108 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .text.xEventGroupClearBits
+                0x00000000       0x46 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .text.vEventGroupClearBitsCallback
+                0x00000000        0x8 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .text.xEventGroupClearBitsFromISR
+                0x00000000       0x14 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .text.xEventGroupGetBitsFromISR
+                0x00000000       0x1c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .text.xEventGroupSetBits
+                0x00000000       0x8c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .text.xEventGroupSync
+                0x00000000       0xd8 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .text.vEventGroupSetBitsCallback
+                0x00000000        0x8 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .text.vEventGroupDelete
+                0x00000000       0x44 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .text.xEventGroupSetBitsFromISR
+                0x00000000       0x14 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .text.uxEventGroupGetNumber
+                0x00000000        0xa CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .text.vEventGroupSetNumber
+                0x00000000        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .debug_info    0x00000000      0xf79 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .debug_abbrev  0x00000000      0x2c1 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .debug_loc     0x00000000      0xb58 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .debug_aranges
+                0x00000000       0x90 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .debug_ranges  0x00000000       0xb8 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .debug_line    0x00000000      0xae3 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .debug_str     0x00000000      0x83c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .debug_frame   0x00000000      0x1a8 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/list.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/list.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/list.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+ .text.vPortEndScheduler
+                0x00000000       0x24 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+ .text.xPortGetFreeHeapSize
+                0x00000000        0xc CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+ .text.xPortGetMinimumEverFreeHeapSize
+                0x00000000        0xc CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+ .text.vPortInitialiseBlocks
+                0x00000000        0x2 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+ .text.vPortGetHeapStats
+                0x00000000       0x80 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.prvGetDisinheritPriorityAfterTimeout
+                0x00000000       0x10 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.xQueueGenericCreate
+                0x00000000       0x7c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.xQueueGetMutexHolder
+                0x00000000       0x1a CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.xQueueGetMutexHolderFromISR
+                0x00000000       0x20 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.xQueueCreateCountingSemaphoreStatic
+                0x00000000       0x46 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.xQueueCreateCountingSemaphore
+                0x00000000       0x3c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.prvInitialiseMutex
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.xQueueCreateMutex
+                0x00000000       0x16 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.xQueueCreateMutexStatic
+                0x00000000       0x1e CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.xQueueGiveMutexRecursive
+                0x00000000       0x40 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.xQueueGiveFromISR
+                0x00000000       0xc8 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.xQueueSemaphoreTake
+                0x00000000      0x1a6 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.xQueueTakeMutexRecursive
+                0x00000000       0x40 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.xQueuePeek
+                0x00000000      0x15e CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.xQueueReceiveFromISR
+                0x00000000       0xc0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.xQueuePeekFromISR
+                0x00000000       0x7e CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.uxQueueMessagesWaiting
+                0x00000000       0x26 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.uxQueueSpacesAvailable
+                0x00000000       0x2a CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.uxQueueMessagesWaitingFromISR
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.uxQueueGetQueueNumber
+                0x00000000        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.vQueueSetQueueNumber
+                0x00000000        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.ucQueueGetQueueType
+                0x00000000        0x6 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.xQueueIsQueueEmptyFromISR
+                0x00000000       0x20 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.xQueueIsQueueFullFromISR
+                0x00000000       0x24 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.pcQueueGetName
+                0x00000000       0x28 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.vQueueUnregisterQueue
+                0x00000000       0x2c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.vQueueDelete
+                0x00000000       0x2c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .text.prvBytesInBuffer
+                0x00000000       0x12 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .text.prvInitialiseNewStreamBuffer
+                0x00000000       0x40 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .text.prvWriteBytesToBuffer
+                0x00000000       0x8c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .text.prvWriteMessageToBuffer
+                0x00000000       0x44 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .text.prvReadBytesFromBuffer
+                0x00000000       0x9c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .text.prvReadMessageFromBuffer
+                0x00000000       0x4c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .text.xStreamBufferGenericCreate
+                0x00000000       0x7e CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .text.xStreamBufferGenericCreateStatic
+                0x00000000       0xa6 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .text.vStreamBufferDelete
+                0x00000000       0x2e CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .text.xStreamBufferReset
+                0x00000000       0x4e CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .text.xStreamBufferSetTriggerLevel
+                0x00000000       0x2a CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .text.xStreamBufferSpacesAvailable
+                0x00000000       0x2a CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .text.xStreamBufferBytesAvailable
+                0x00000000       0x1c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .text.xStreamBufferSend
+                0x00000000      0x12a CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .text.xStreamBufferSendFromISR
+                0x00000000       0xa6 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .text.xStreamBufferReceive
+                0x00000000       0xf0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .text.xStreamBufferNextMessageLengthBytes
+                0x00000000       0x5c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .text.xStreamBufferReceiveFromISR
+                0x00000000       0xa4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .text.xStreamBufferIsEmpty
+                0x00000000       0x24 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .text.xStreamBufferIsFull
+                0x00000000       0x38 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .text.xStreamBufferSendCompletedFromISR
+                0x00000000       0x54 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .text.xStreamBufferReceiveCompletedFromISR
+                0x00000000       0x54 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .text.uxStreamBufferGetStreamBufferNumber
+                0x00000000        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .text.vStreamBufferSetStreamBufferNumber
+                0x00000000        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .text.ucStreamBufferGetStreamBufferType
+                0x00000000        0x8 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .debug_info    0x00000000     0x1c72 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .debug_abbrev  0x00000000      0x313 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .debug_loc     0x00000000     0x1b70 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .debug_aranges
+                0x00000000       0xe0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .debug_ranges  0x00000000       0xd0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .debug_line    0x00000000     0x15fd CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .debug_str     0x00000000      0xa0e CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .debug_frame   0x00000000      0x38c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.prvTaskIsTaskSuspended
+                0x00000000       0x40 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.prvTaskCheckFreeStackSpace
+                0x00000000       0x14 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.vTaskDelete
+                0x00000000       0xb8 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.eTaskGetState
+                0x00000000       0x9c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.uxTaskPriorityGet
+                0x00000000       0x20 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.uxTaskPriorityGetFromISR
+                0x00000000       0x30 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.vTaskPrioritySet
+                0x00000000       0xd4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.vTaskResume
+                0x00000000       0x88 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.xTaskResumeFromISR
+                0x00000000       0xac CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.vTaskEndScheduler
+                0x00000000       0x24 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.xTaskGetTickCountFromISR
+                0x00000000       0x10 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.uxTaskGetNumberOfTasks
+                0x00000000        0xc CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.pcTaskGetName
+                0x00000000       0x28 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.xTaskDelayUntil
+                0x00000000       0xb0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.xTaskCatchUpTicks
+                0x00000000       0x38 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.vTaskSuspend
+                0x00000000       0xd0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.vTaskPlaceOnUnorderedEventList
+                0x00000000       0x58 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.vTaskRemoveFromUnorderedEventList
+                0x00000000       0x88 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.vTaskSetTimeOutState
+                0x00000000       0x38 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.uxTaskGetTaskNumber
+                0x00000000        0xa CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.vTaskSetTaskNumber
+                0x00000000        0x6 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.vTaskGetInfo
+                0x00000000       0x78 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.prvListTasksWithinSingleList
+                0x00000000       0x5e CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.uxTaskGetSystemState
+                0x00000000       0xb0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.uxTaskGetStackHighWaterMark
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.xTaskGetCurrentTaskHandle
+                0x00000000        0xc CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.xTaskPriorityInherit
+                0x00000000       0x98 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.vTaskPriorityDisinheritAfterTimeout
+                0x00000000       0xa0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.uxTaskResetEventItemValue
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.pvTaskIncrementMutexHeldCount
+                0x00000000       0x1c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.ulTaskGenericNotifyTake
+                0x00000000       0xac CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.xTaskGenericNotifyWait
+                0x00000000       0xd0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.xTaskGenericNotify
+                0x00000000      0x144 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.xTaskGenericNotifyFromISR
+                0x00000000      0x178 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.vTaskGenericNotifyGiveFromISR
+                0x00000000       0xf0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.xTaskGenericNotifyStateClear
+                0x00000000       0x4c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.ulTaskGenericNotifyValueClear
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .text.prvInitialiseNewTimer
+                0x00000000       0x4c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .text.xTimerCreate
+                0x00000000       0x38 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .text.xTimerCreateStatic
+                0x00000000       0x54 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .text.xTimerGetTimerDaemonTaskHandle
+                0x00000000       0x20 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .text.xTimerGetPeriod
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .text.vTimerSetReloadMode
+                0x00000000       0x40 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .text.uxTimerGetReloadMode
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .text.xTimerGetExpiryTime
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .text.pcTimerGetName
+                0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .text.xTimerIsTimerActive
+                0x00000000       0x34 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .text.pvTimerGetTimerID
+                0x00000000       0x26 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .text.vTimerSetTimerID
+                0x00000000       0x26 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .text.xTimerPendFunctionCallFromISR
+                0x00000000       0x28 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .text.xTimerPendFunctionCall
+                0x00000000       0x40 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .text.uxTimerGetTimerNumber
+                0x00000000        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .text.vTimerSetTimerNumber
+                0x00000000        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_int.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_int.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_int.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_wk_config.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_wk_config.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_wk_config.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/src/freertos_app.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/src/freertos_app.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/src/freertos_app.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/src/main.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/src/main.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/src/main.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/src/wk_gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/src/wk_gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/src/wk_gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/src/wk_system.c.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/src/wk_system.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/src/wk_system.c.obj
+ .text          0x00000000       0x14 CMakeFiles/FOC_GCC.elf.dir/project/startup/startup_at32f435_437.s.obj
+ .data          0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/startup/startup_at32f435_437.s.obj
+ .bss           0x00000000        0x0 CMakeFiles/FOC_GCC.elf.dir/project/startup/startup_at32f435_437.s.obj
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xcc c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+ .bss.__lock___sinit_recursive_mutex
+                0x00000000        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .rodata        0x00000000       0x24 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .eh_frame      0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00100000         xr
+RAM              0x20000000         0x00060000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/cmsis/cm4/device_support/system_at32f435_437.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_acc.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_adc.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_can.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crc.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dac.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_debug.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dma.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_dvp.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_edma.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_emac.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_ertc.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_exint.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_flash.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_i2c.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_misc.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_pwc.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_qspi.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_scfg.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_sdio.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_spi.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_usart.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_usb.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_wdt.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_wwdt.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_xmc.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/croutine.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/event_groups.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/list.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/stream_buffer.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_int.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_wk_config.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/project/src/freertos_app.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/project/src/main.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/project/src/wk_gpio.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/project/src/wk_system.c.obj
+LOAD CMakeFiles/FOC_GCC.elf.dir/project/startup/startup_at32f435_437.s.obj
+START GROUP
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a
+END GROUP
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x20060000                _estack = 0x20060000
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x20c
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x20c CMakeFiles/FOC_GCC.elf.dir/project/startup/startup_at32f435_437.s.obj
+                0x08000000                g_pfnVectors
+                0x0800020c                . = ALIGN (0x4)
+
+.text           0x08000210     0x2b2c
+                0x08000210                . = ALIGN (0x4)
+ *(.text)
+ .text          0x08000210       0x40 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x08000250       0x30 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+                0x08000250                __aeabi_uldivmod
+ .text          0x08000280      0x2d0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                0x08000280                __udivmoddi4
+ .text          0x08000550        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+                0x08000550                __aeabi_idiv0
+                0x08000550                __aeabi_ldiv0
+ .text          0x08000554      0x134 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memcpy.o)
+                0x08000554                memcpy
+ *(.text*)
+ .text.SystemInit
+                0x08000688       0x6c CMakeFiles/FOC_GCC.elf.dir/libraries/cmsis/cm4/device_support/system_at32f435_437.c.obj
+                0x08000688                SystemInit
+ .text.system_core_clock_update
+                0x080006f4       0xb4 CMakeFiles/FOC_GCC.elf.dir/libraries/cmsis/cm4/device_support/system_at32f435_437.c.obj
+                0x080006f4                system_core_clock_update
+ .text.crm_reset
+                0x080007a8       0x54 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+                0x080007a8                crm_reset
+ .text.crm_flag_get
+                0x080007fc       0x24 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+                0x080007fc                crm_flag_get
+ .text.crm_hext_stable_wait
+                0x08000820       0x26 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+                0x08000820                crm_hext_stable_wait
+ .text.crm_periph_clock_enable
+                0x08000846       0x3c CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+                0x08000846                crm_periph_clock_enable
+ *fill*         0x08000882        0x2 
+ .text.crm_clock_source_enable
+                0x08000884       0x50 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+                0x08000884                crm_clock_source_enable
+ .text.crm_ahb_div_set
+                0x080008d4       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+                0x080008d4                crm_ahb_div_set
+ .text.crm_apb1_div_set
+                0x080008e4       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+                0x080008e4                crm_apb1_div_set
+ .text.crm_apb2_div_set
+                0x080008f4       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+                0x080008f4                crm_apb2_div_set
+ .text.crm_auto_step_mode_enable
+                0x08000904       0x28 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+                0x08000904                crm_auto_step_mode_enable
+ .text.crm_pll_config
+                0x0800092c       0x40 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+                0x0800092c                crm_pll_config
+ .text.crm_sysclk_switch
+                0x0800096c       0x38 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+                0x0800096c                crm_sysclk_switch
+ .text.crm_sysclk_switch_status_get
+                0x080009a4       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+                0x080009a4                crm_sysclk_switch_status_get
+ .text.crm_clocks_freq_get
+                0x080009b4       0xcc CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+                0x080009b4                crm_clocks_freq_get
+ .text.gpio_init
+                0x08000a80       0x8e CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+                0x08000a80                gpio_init
+ .text.gpio_default_para_init
+                0x08000b0e       0x14 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+                0x08000b0e                gpio_default_para_init
+ .text.gpio_bits_set
+                0x08000b22        0x4 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+                0x08000b22                gpio_bits_set
+ .text.gpio_bits_reset
+                0x08000b26        0x4 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+                0x08000b26                gpio_bits_reset
+ *fill*         0x08000b2a        0x2 
+ .text.nvic_irq_enable
+                0x08000b2c       0x88 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_misc.c.obj
+                0x08000b2c                nvic_irq_enable
+ .text.nvic_priority_group_config
+                0x08000bb4       0x24 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_misc.c.obj
+                0x08000bb4                nvic_priority_group_config
+ .text.tmr_counter_enable
+                0x08000bd8        0xa CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+                0x08000bd8                tmr_counter_enable
+ .text.tmr_base_init
+                0x08000be2        0xe CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+                0x08000be2                tmr_base_init
+ .text.tmr_cnt_dir_set
+                0x08000bf0        0xa CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+                0x08000bf0                tmr_cnt_dir_set
+ .text.tmr_interrupt_enable
+                0x08000bfa       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+                0x08000bfa                tmr_interrupt_enable
+ .text.tmr_interrupt_flag_get
+                0x08000c12       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+                0x08000c12                tmr_interrupt_flag_get
+ .text.tmr_flag_clear
+                0x08000c2a        0x6 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+                0x08000c2a                tmr_flag_clear
+ .text.vListInitialise
+                0x08000c30       0x16 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/list.c.obj
+                0x08000c30                vListInitialise
+ .text.vListInitialiseItem
+                0x08000c46        0x6 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/list.c.obj
+                0x08000c46                vListInitialiseItem
+ .text.vListInsertEnd
+                0x08000c4c       0x16 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/list.c.obj
+                0x08000c4c                vListInsertEnd
+ .text.vListInsert
+                0x08000c62       0x32 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/list.c.obj
+                0x08000c62                vListInsert
+ .text.uxListRemove
+                0x08000c94       0x26 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/list.c.obj
+                0x08000c94                uxListRemove
+ *fill*         0x08000cba        0x2 
+ .text.prvTaskExitError
+                0x08000cbc       0x40 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+ .text.prvPortStartFirstTask
+                0x08000cfc       0x28 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+ .text.vPortEnableVFP
+                0x08000d24       0x14 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+ .text.pxPortInitialiseStack
+                0x08000d38       0x2c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+                0x08000d38                pxPortInitialiseStack
+ *fill*         0x08000d64        0xc 
+ .text.SVC_Handler
+                0x08000d70       0x24 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+                0x08000d70                SVC_Handler
+ .text.vPortEnterCritical
+                0x08000d94       0x44 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+                0x08000d94                vPortEnterCritical
+ .text.vPortExitCritical
+                0x08000dd8       0x2c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+                0x08000dd8                vPortExitCritical
+ *fill*         0x08000e04        0xc 
+ .text.PendSV_Handler
+                0x08000e10       0x64 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+                0x08000e10                PendSV_Handler
+ .text.xPortSysTickHandler
+                0x08000e74       0x2c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+                0x08000e74                xPortSysTickHandler
+ .text.vPortSetupTimerInterrupt
+                0x08000ea0       0x28 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+                0x08000ea0                vPortSetupTimerInterrupt
+ .text.xPortStartScheduler
+                0x08000ec8      0x118 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+                0x08000ec8                xPortStartScheduler
+ .text.vPortValidateInterruptPriority
+                0x08000fe0       0x5c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+                0x08000fe0                vPortValidateInterruptPriority
+ .text.prvHeapInit
+                0x0800103c       0x64 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+ .text.prvInsertBlockIntoFreeList
+                0x080010a0       0x64 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+ .text.pvPortMalloc
+                0x08001104      0x110 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+                0x08001104                pvPortMalloc
+ .text.vPortFree
+                0x08001214       0x7c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+                0x08001214                vPortFree
+ .text.prvIsQueueFull
+                0x08001290       0x1e CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.prvIsQueueEmpty
+                0x080012ae       0x1a CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.prvCopyDataToQueue
+                0x080012c8       0x76 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.prvCopyDataFromQueue
+                0x0800133e       0x24 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.prvUnlockQueue
+                0x08001362       0x6e CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.xQueueGenericReset
+                0x080013d0       0x84 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+                0x080013d0                xQueueGenericReset
+ .text.prvInitialiseNewQueue
+                0x08001454       0x22 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .text.xQueueGenericCreateStatic
+                0x08001476       0x94 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+                0x08001476                xQueueGenericCreateStatic
+ .text.xQueueGenericSend
+                0x0800150a      0x188 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+                0x0800150a                xQueueGenericSend
+ .text.xQueueGenericSendFromISR
+                0x08001692       0xe6 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+                0x08001692                xQueueGenericSendFromISR
+ .text.xQueueReceive
+                0x08001778      0x15e CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+                0x08001778                xQueueReceive
+ *fill*         0x080018d6        0x2 
+ .text.vQueueAddToRegistry
+                0x080018d8       0x28 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+                0x080018d8                vQueueAddToRegistry
+ .text.vQueueWaitForMessageRestricted
+                0x08001900       0x52 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+                0x08001900                vQueueWaitForMessageRestricted
+ *fill*         0x08001952        0x2 
+ .text.prvResetNextTaskUnblockTime
+                0x08001954       0x28 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.prvInitialiseNewTask
+                0x0800197c       0xa6 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ *fill*         0x08001a22        0x2 
+ .text.prvInitialiseTaskLists
+                0x08001a24       0x68 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.prvAddNewTaskToReadyList
+                0x08001a8c       0xac CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.prvDeleteTCB
+                0x08001b38       0x38 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.prvCheckTasksWaitingTermination
+                0x08001b70       0x4c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.prvIdleTask
+                0x08001bbc       0x28 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.prvAddCurrentTaskToDelayedList
+                0x08001be4       0x7c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .text.xTaskCreateStatic
+                0x08001c60       0x76 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+                0x08001c60                xTaskCreateStatic
+ .text.xTaskCreate
+                0x08001cd6       0x68 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+                0x08001cd6                xTaskCreate
+ *fill*         0x08001d3e        0x2 
+ .text.vTaskStartScheduler
+                0x08001d40       0xa4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+                0x08001d40                vTaskStartScheduler
+ .text.vTaskSuspendAll
+                0x08001de4       0x10 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+                0x08001de4                vTaskSuspendAll
+ .text.xTaskGetTickCount
+                0x08001df4        0xc CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+                0x08001df4                xTaskGetTickCount
+ .text.xTaskIncrementTick
+                0x08001e00      0x118 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+                0x08001e00                xTaskIncrementTick
+ .text.xTaskResumeAll
+                0x08001f18       0xf8 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+                0x08001f18                xTaskResumeAll
+ .text.vTaskDelay
+                0x08002010       0x4c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+                0x08002010                vTaskDelay
+ .text.vTaskSwitchContext
+                0x0800205c       0x94 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+                0x0800205c                vTaskSwitchContext
+ .text.vTaskPlaceOnEventList
+                0x080020f0       0x30 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+                0x080020f0                vTaskPlaceOnEventList
+ .text.vTaskPlaceOnEventListRestricted
+                0x08002120       0x38 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+                0x08002120                vTaskPlaceOnEventListRestricted
+ .text.xTaskRemoveFromEventList
+                0x08002158       0x8c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+                0x08002158                xTaskRemoveFromEventList
+ .text.vTaskInternalSetTimeOutState
+                0x080021e4       0x18 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+                0x080021e4                vTaskInternalSetTimeOutState
+ .text.xTaskCheckForTimeOut
+                0x080021fc       0x88 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+                0x080021fc                xTaskCheckForTimeOut
+ .text.vTaskMissedYield
+                0x08002284        0xc CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+                0x08002284                vTaskMissedYield
+ .text.xTaskGetSchedulerState
+                0x08002290       0x20 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+                0x08002290                xTaskGetSchedulerState
+ .text.xTaskPriorityDisinherit
+                0x080022b0       0x90 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+                0x080022b0                xTaskPriorityDisinherit
+ .text.prvGetNextExpireTime
+                0x08002340       0x20 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .text.prvInsertTimerInActiveList
+                0x08002360       0x48 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .text.prvCheckForValidListAndQueue
+                0x080023a8       0x70 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .text.xTimerCreateTimerTask
+                0x08002418       0x64 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+                0x08002418                xTimerCreateTimerTask
+ .text.xTimerGenericCommand
+                0x0800247c       0x6c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+                0x0800247c                xTimerGenericCommand
+ .text.prvSwitchTimerLists
+                0x080024e8       0x7c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .text.prvSampleTimeNow
+                0x08002564       0x2c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .text.prvProcessExpiredTimer
+                0x08002590       0x6c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .text.prvProcessTimerOrBlockTask
+                0x080025fc       0x74 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .text.prvProcessReceivedCommands
+                0x08002670      0x10c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .text.prvTimerTask
+                0x0800277c       0x16 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .text.NMI_Handler
+                0x08002792        0x2 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_int.c.obj
+                0x08002792                NMI_Handler
+ .text.HardFault_Handler
+                0x08002794        0x2 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_int.c.obj
+                0x08002794                HardFault_Handler
+ .text.MemManage_Handler
+                0x08002796        0x2 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_int.c.obj
+                0x08002796                MemManage_Handler
+ .text.BusFault_Handler
+                0x08002798        0x2 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_int.c.obj
+                0x08002798                BusFault_Handler
+ .text.UsageFault_Handler
+                0x0800279a        0x2 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_int.c.obj
+                0x0800279a                UsageFault_Handler
+ .text.DebugMon_Handler
+                0x0800279c        0x2 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_int.c.obj
+                0x0800279c                DebugMon_Handler
+ .text.SysTick_Handler
+                0x0800279e        0x8 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_int.c.obj
+                0x0800279e                SysTick_Handler
+ .text.TMR7_GLOBAL_IRQHandler
+                0x080027a6        0x8 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_int.c.obj
+                0x080027a6                TMR7_GLOBAL_IRQHandler
+ *fill*         0x080027ae        0x2 
+ .text.wk_system_clock_config
+                0x080027b0       0xb4 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_wk_config.c.obj
+                0x080027b0                wk_system_clock_config
+ .text.wk_periph_clock_config
+                0x08002864       0x34 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_wk_config.c.obj
+                0x08002864                wk_periph_clock_config
+ .text.wk_nvic_config
+                0x08002898       0xa0 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_wk_config.c.obj
+                0x08002898                wk_nvic_config
+ .text.user_idle_task_func
+                0x08002938       0x30 CMakeFiles/FOC_GCC.elf.dir/project/src/freertos_app.c.obj
+                0x08002938                user_idle_task_func
+ .text.vApplicationGetIdleTaskMemory
+                0x08002968       0x18 CMakeFiles/FOC_GCC.elf.dir/project/src/freertos_app.c.obj
+                0x08002968                vApplicationGetIdleTaskMemory
+ .text.vApplicationGetTimerTaskMemory
+                0x08002980       0x18 CMakeFiles/FOC_GCC.elf.dir/project/src/freertos_app.c.obj
+                0x08002980                vApplicationGetTimerTaskMemory
+ .text.freertos_task_create
+                0x08002998       0x28 CMakeFiles/FOC_GCC.elf.dir/project/src/freertos_app.c.obj
+                0x08002998                freertos_task_create
+ .text.wk_freertos_init
+                0x080029c0       0x14 CMakeFiles/FOC_GCC.elf.dir/project/src/freertos_app.c.obj
+                0x080029c0                wk_freertos_init
+ .text.main     0x080029d4       0x48 CMakeFiles/FOC_GCC.elf.dir/project/src/main.c.obj
+                0x080029d4                main
+ .text.wk_gpio_config
+                0x08002a1c       0x44 CMakeFiles/FOC_GCC.elf.dir/project/src/wk_gpio.c.obj
+                0x08002a1c                wk_gpio_config
+ .text.wk_timebase_increase
+                0x08002a60       0x10 CMakeFiles/FOC_GCC.elf.dir/project/src/wk_system.c.obj
+                0x08002a60                wk_timebase_increase
+ .text.wk_timebase_get
+                0x08002a70        0xc CMakeFiles/FOC_GCC.elf.dir/project/src/wk_system.c.obj
+                0x08002a70                wk_timebase_get
+ .text.wk_delay_ms
+                0x08002a7c       0x1e CMakeFiles/FOC_GCC.elf.dir/project/src/wk_system.c.obj
+                0x08002a7c                wk_delay_ms
+ *fill*         0x08002a9a        0x2 
+ .text.wk_timebase_init
+                0x08002a9c       0x4c CMakeFiles/FOC_GCC.elf.dir/project/src/wk_system.c.obj
+                0x08002a9c                wk_timebase_init
+ .text.wk_timebase_handler
+                0x08002ae8       0x24 CMakeFiles/FOC_GCC.elf.dir/project/src/wk_system.c.obj
+                0x08002ae8                wk_timebase_handler
+ .text.Reset_Handler
+                0x08002b0c       0x48 CMakeFiles/FOC_GCC.elf.dir/project/startup/startup_at32f435_437.s.obj
+                0x08002b0c                Reset_Handler
+ .text.Default_Handler
+                0x08002b54        0x2 CMakeFiles/FOC_GCC.elf.dir/project/startup/startup_at32f435_437.s.obj
+                0x08002b54                SDIO1_IRQHandler
+                0x08002b54                XMC_IRQHandler
+                0x08002b54                EXINT2_IRQHandler
+                0x08002b54                TMR20_TRG_HALL_IRQHandler
+                0x08002b54                UART8_IRQHandler
+                0x08002b54                SPI4_IRQHandler
+                0x08002b54                I2C2_EVT_IRQHandler
+                0x08002b54                TMR20_CH_IRQHandler
+                0x08002b54                TMR1_OVF_TMR10_IRQHandler
+                0x08002b54                TMR8_TRG_HALL_TMR14_IRQHandler
+                0x08002b54                I2C1_ERR_IRQHandler
+                0x08002b54                EXINT9_5_IRQHandler
+                0x08002b54                TAMP_STAMP_IRQHandler
+                0x08002b54                EMAC_IRQHandler
+                0x08002b54                EDMA_Stream7_IRQHandler
+                0x08002b54                CAN2_RX1_IRQHandler
+                0x08002b54                TMR5_GLOBAL_IRQHandler
+                0x08002b54                TMR20_OVF_IRQHandler
+                0x08002b54                EDMA_Stream2_IRQHandler
+                0x08002b54                CAN1_RX0_IRQHandler
+                0x08002b54                FPU_IRQHandler
+                0x08002b54                EDMA_Stream3_IRQHandler
+                0x08002b54                SDIO2_IRQHandler
+                0x08002b54                OTGFS2_IRQHandler
+                0x08002b54                SPI1_IRQHandler
+                0x08002b54                TMR6_DAC_GLOBAL_IRQHandler
+                0x08002b54                CAN2_RX0_IRQHandler
+                0x08002b54                OTGFS1_IRQHandler
+                0x08002b54                DMA2_Channel2_IRQHandler
+                0x08002b54                DMA1_Channel4_IRQHandler
+                0x08002b54                TMR8_CH_IRQHandler
+                0x08002b54                EDMA_Stream4_IRQHandler
+                0x08002b54                USART6_IRQHandler
+                0x08002b54                EXINT0_IRQHandler
+                0x08002b54                USART3_IRQHandler
+                0x08002b54                DMA1_Channel7_IRQHandler
+                0x08002b54                CAN1_RX1_IRQHandler
+                0x08002b54                DVP_IRQHandler
+                0x08002b54                UART5_IRQHandler
+                0x08002b54                ACC_IRQHandler
+                0x08002b54                DMAMUX_IRQHandler
+                0x08002b54                EMAC_WKUP_IRQHandler
+                0x08002b54                DMA2_Channel1_IRQHandler
+                0x08002b54                OTGFS2_WKUP_IRQHandler
+                0x08002b54                EXINT3_IRQHandler
+                0x08002b54                DMA1_Channel6_IRQHandler
+                0x08002b54                UART4_IRQHandler
+                0x08002b54                DMA2_Channel4_IRQHandler
+                0x08002b54                ERTCAlarm_IRQHandler
+                0x08002b54                DMA1_Channel1_IRQHandler
+                0x08002b54                Default_Handler
+                0x08002b54                DMA2_Channel7_IRQHandler
+                0x08002b54                TMR20_BRK_IRQHandler
+                0x08002b54                QSPI1_IRQHandler
+                0x08002b54                TMR3_GLOBAL_IRQHandler
+                0x08002b54                CAN1_SE_IRQHandler
+                0x08002b54                CAN2_TX_IRQHandler
+                0x08002b54                I2C3_ERR_IRQHandler
+                0x08002b54                SPI3_I2S3EXT_IRQHandler
+                0x08002b54                TMR1_BRK_TMR9_IRQHandler
+                0x08002b54                TMR8_BRK_TMR12_IRQHandler
+                0x08002b54                TMR1_TRG_HALL_TMR11_IRQHandler
+                0x08002b54                CAN1_TX_IRQHandler
+                0x08002b54                DMA2_Channel5_IRQHandler
+                0x08002b54                DMA1_Channel5_IRQHandler
+                0x08002b54                EDMA_Stream6_IRQHandler
+                0x08002b54                QSPI2_IRQHandler
+                0x08002b54                TMR4_GLOBAL_IRQHandler
+                0x08002b54                EXINT4_IRQHandler
+                0x08002b54                CAN2_SE_IRQHandler
+                0x08002b54                PVM_IRQHandler
+                0x08002b54                I2C3_EVT_IRQHandler
+                0x08002b54                DMA1_Channel3_IRQHandler
+                0x08002b54                I2C1_EVT_IRQHandler
+                0x08002b54                TMR8_OVF_TMR13_IRQHandler
+                0x08002b54                DMA2_Channel6_IRQHandler
+                0x08002b54                EDMA_Stream5_IRQHandler
+                0x08002b54                EDMA_Stream1_IRQHandler
+                0x08002b54                EXINT1_IRQHandler
+                0x08002b54                UART7_IRQHandler
+                0x08002b54                USART2_IRQHandler
+                0x08002b54                DMA1_Channel2_IRQHandler
+                0x08002b54                TMR2_GLOBAL_IRQHandler
+                0x08002b54                ERTC_WKUP_IRQHandler
+                0x08002b54                FLASH_IRQHandler
+                0x08002b54                SPI2_I2S2EXT_IRQHandler
+                0x08002b54                I2C2_ERR_IRQHandler
+                0x08002b54                USART1_IRQHandler
+                0x08002b54                TMR1_CH_IRQHandler
+                0x08002b54                CRM_IRQHandler
+                0x08002b54                EDMA_Stream8_IRQHandler
+                0x08002b54                OTGFS1_WKUP_IRQHandler
+                0x08002b54                EXINT15_10_IRQHandler
+                0x08002b54                ADC1_2_3_IRQHandler
+                0x08002b54                WWDT_IRQHandler
+                0x08002b54                DMA2_Channel3_IRQHandler
+ *fill*         0x08002b56        0x2 
+ .text.__libc_init_array
+                0x08002b58       0x48 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-init.o)
+                0x08002b58                __libc_init_array
+ .text.memset   0x08002ba0       0xa4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memset.o)
+                0x08002ba0                memset
+ .text.startup.register_fini
+                0x08002c44       0x14 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08002c58        0xc c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-atexit.o)
+                0x08002c58                atexit
+ .text.__libc_fini_array
+                0x08002c64       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fini.o)
+                0x08002c64                __libc_fini_array
+ .text.__retarget_lock_acquire_recursive
+                0x08002c90        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+                0x08002c90                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x08002c94        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+                0x08002c94                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x08002c98       0x8c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__atexit.o)
+                0x08002c98                __register_exitproc
+ *(.glue_7)
+ .glue_7        0x08002d24        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08002d24        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x08002d24        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.init)
+ .init          0x08002d24        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x08002d24                _init
+ .init          0x08002d28        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x08002d30        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x08002d30                _fini
+ .fini          0x08002d34        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x08002d3c                . = ALIGN (0x4)
+                0x08002d3c                _etext = .
+
+.vfp11_veneer   0x08002d3c        0x0
+ .vfp11_veneer  0x08002d3c        0x0 linker stubs
+
+.v4_bx          0x08002d3c        0x0
+ .v4_bx         0x08002d3c        0x0 linker stubs
+
+.iplt           0x08002d3c        0x0
+ .iplt          0x08002d3c        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.rodata         0x08002d3c       0x6c
+                0x08002d3c                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.pll_fr_table.1
+                0x08002d3c        0x6 CMakeFiles/FOC_GCC.elf.dir/libraries/cmsis/cm4/device_support/system_at32f435_437.c.obj
+ *fill*         0x08002d42        0x2 
+ .rodata.sys_ahb_div_table.0
+                0x08002d44       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/cmsis/cm4/device_support/system_at32f435_437.c.obj
+ .rodata.ahb_apb1_div_table.1
+                0x08002d54        0x8 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .rodata.ahb_apb2_div_table.0
+                0x08002d5c        0x8 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .rodata.pll_fr_table.3
+                0x08002d64        0x6 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ *fill*         0x08002d6a        0x2 
+ .rodata.sclk_ahb_div_table.2
+                0x08002d6c       0x10 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .rodata.vTaskStartScheduler.str1.4
+                0x08002d7c        0x5 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ *fill*         0x08002d81        0x3 
+ .rodata.prvCheckForValidListAndQueue.str1.4
+                0x08002d84        0x5 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ *fill*         0x08002d89        0x3 
+ .rodata.xTimerCreateTimerTask.str1.4
+                0x08002d8c        0x8 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .rodata.freertos_task_create.str1.4
+                0x08002d94        0xf CMakeFiles/FOC_GCC.elf.dir/project/src/freertos_app.c.obj
+ *fill*         0x08002da3        0x1 
+ .rodata._global_impure_ptr
+                0x08002da4        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-impure.o)
+                0x08002da4                _global_impure_ptr
+                0x08002da8                . = ALIGN (0x4)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08002da8        0x8
+                0x08002da8                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x08002da8        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                0x08002db0                __exidx_end = .
+
+.rel.dyn        0x08002db0        0x0
+ .rel.iplt      0x08002db0        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.preinit_array  0x08002db0        0x0
+                0x08002db0                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08002db0                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x08002db0        0x8
+                0x08002db0                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x08002db0        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x08002db4        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x08002db8                PROVIDE (__init_array_end = .)
+
+.fini_array     0x08002db8        0x4
+                0x08002db8                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x08002db8        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x08002dbc                PROVIDE (__fini_array_end = .)
+                0x08002dbc                _sidata = LOADADDR (.data)
+
+.data           0x20000000      0x43c load address 0x08002dbc
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.system_core_clock
+                0x20000000        0x4 CMakeFiles/FOC_GCC.elf.dir/libraries/cmsis/cm4/device_support/system_at32f435_437.c.obj
+                0x20000000                system_core_clock
+ .data.uxCriticalNesting
+                0x20000004        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+ .data.uxTopUsedPriority
+                0x20000008        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+                0x20000008                uxTopUsedPriority
+ *fill*         0x2000000c        0x4 
+ .data.impure_data
+                0x20000010      0x428 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x20000438        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+                0x20000438                __atexit_recursive_mutex
+                0x2000043c                . = ALIGN (0x4)
+                0x2000043c                _edata = .
+
+.igot.plt       0x2000043c        0x0 load address 0x080031f8
+ .igot.plt      0x2000043c        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x2000043c                . = ALIGN (0x4)
+
+.bss            0x2000043c     0x3254 load address 0x080031f8
+                0x2000043c                _sbss = .
+                0x2000043c                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x2000043c       0x1c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.bss*)
+ .bss.ucMaxSysCallPriority
+                0x20000458        0x1 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+ *fill*         0x20000459        0x3 
+ .bss.ulMaxPRIGROUPValue
+                0x2000045c        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+ .bss.pxEnd     0x20000460        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+ .bss.ucHeap    0x20000464     0x2800 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+ .bss.xBlockAllocatedBit
+                0x20002c64        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+ .bss.xFreeBytesRemaining
+                0x20002c68        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+ .bss.xMinimumEverFreeBytesRemaining
+                0x20002c6c        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+ .bss.xNumberOfSuccessfulAllocations
+                0x20002c70        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+ .bss.xNumberOfSuccessfulFrees
+                0x20002c74        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+ .bss.xStart    0x20002c78        0x8 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+ .bss.xQueueRegistry
+                0x20002c80       0x40 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+                0x20002c80                xQueueRegistry
+ .bss.pxCurrentTCB
+                0x20002cc0        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+                0x20002cc0                pxCurrentTCB
+ .bss.pxDelayedTaskList
+                0x20002cc4        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .bss.pxOverflowDelayedTaskList
+                0x20002cc8        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .bss.pxReadyTasksLists
+                0x20002ccc      0x140 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .bss.uxCurrentNumberOfTasks
+                0x20002e0c        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .bss.uxDeletedTasksWaitingCleanUp
+                0x20002e10        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .bss.uxSchedulerSuspended
+                0x20002e14        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .bss.uxTaskNumber
+                0x20002e18        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .bss.uxTopReadyPriority
+                0x20002e1c        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .bss.xDelayedTaskList1
+                0x20002e20       0x14 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .bss.xDelayedTaskList2
+                0x20002e34       0x14 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .bss.xIdleTaskHandle
+                0x20002e48        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .bss.xNextTaskUnblockTime
+                0x20002e4c        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .bss.xNumOfOverflows
+                0x20002e50        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .bss.xPendedTicks
+                0x20002e54        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .bss.xPendingReadyList
+                0x20002e58       0x14 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .bss.xSchedulerRunning
+                0x20002e6c        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .bss.xSuspendedTaskList
+                0x20002e70       0x14 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .bss.xTasksWaitingTermination
+                0x20002e84       0x14 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .bss.xTickCount
+                0x20002e98        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .bss.xYieldPending
+                0x20002e9c        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .bss.pxCurrentTimerList
+                0x20002ea0        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .bss.pxOverflowTimerList
+                0x20002ea4        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .bss.ucStaticTimerQueueStorage.1
+                0x20002ea8       0xa0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .bss.xActiveTimerList1
+                0x20002f48       0x14 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .bss.xActiveTimerList2
+                0x20002f5c       0x14 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .bss.xLastTime.2
+                0x20002f70        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .bss.xStaticTimerQueue.0
+                0x20002f74       0x50 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .bss.xTimerQueue
+                0x20002fc4        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .bss.xTimerTaskHandle
+                0x20002fc8        0x4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .bss.idle_task_stack
+                0x20002fcc      0x200 CMakeFiles/FOC_GCC.elf.dir/project/src/freertos_app.c.obj
+ .bss.idle_task_tcb
+                0x200031cc       0x5c CMakeFiles/FOC_GCC.elf.dir/project/src/freertos_app.c.obj
+ .bss.timer_task_stack
+                0x20003228      0x400 CMakeFiles/FOC_GCC.elf.dir/project/src/freertos_app.c.obj
+ .bss.timer_task_tcb
+                0x20003628       0x5c CMakeFiles/FOC_GCC.elf.dir/project/src/freertos_app.c.obj
+ .bss.user_idle_task_handle
+                0x20003684        0x4 CMakeFiles/FOC_GCC.elf.dir/project/src/freertos_app.c.obj
+                0x20003684                user_idle_task_handle
+ .bss.timebase_ticks
+                0x20003688        0x4 CMakeFiles/FOC_GCC.elf.dir/project/src/wk_system.c.obj
+                0x20003688                timebase_ticks
+ .bss.__lock___atexit_recursive_mutex
+                0x2000368c        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+                0x2000368c                __lock___atexit_recursive_mutex
+ *(COMMON)
+                0x20003690                . = ALIGN (0x4)
+ *fill*         0x2000368d        0x3 
+                0x20003690                _ebss = .
+                0x20003690                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x20003690      0x600 load address 0x080031f8
+                0x20003690                . = ALIGN (0x8)
+                [!provide]                PROVIDE (end = .)
+                [!provide]                PROVIDE (_end = .)
+                0x20003890                . = (. + _Min_Heap_Size)
+ *fill*         0x20003690      0x200 
+                0x20003c90                . = (. + _Min_Stack_Size)
+ *fill*         0x20003890      0x400 
+                0x20003c90                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x0000001e       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x00000052       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/cmsis/cm4/device_support/system_at32f435_437.c.obj
+ .ARM.attributes
+                0x00000086       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .ARM.attributes
+                0x000000ba       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+ .ARM.attributes
+                0x000000ee       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_misc.c.obj
+ .ARM.attributes
+                0x00000122       0x34 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .ARM.attributes
+                0x00000156       0x34 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/list.c.obj
+ .ARM.attributes
+                0x0000018a       0x34 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+ .ARM.attributes
+                0x000001be       0x34 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+ .ARM.attributes
+                0x000001f2       0x34 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .ARM.attributes
+                0x00000226       0x34 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .ARM.attributes
+                0x0000025a       0x34 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .ARM.attributes
+                0x0000028e       0x34 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_int.c.obj
+ .ARM.attributes
+                0x000002c2       0x34 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_wk_config.c.obj
+ .ARM.attributes
+                0x000002f6       0x34 CMakeFiles/FOC_GCC.elf.dir/project/src/freertos_app.c.obj
+ .ARM.attributes
+                0x0000032a       0x34 CMakeFiles/FOC_GCC.elf.dir/project/src/main.c.obj
+ .ARM.attributes
+                0x0000035e       0x34 CMakeFiles/FOC_GCC.elf.dir/project/src/wk_gpio.c.obj
+ .ARM.attributes
+                0x00000392       0x34 CMakeFiles/FOC_GCC.elf.dir/project/src/wk_system.c.obj
+ .ARM.attributes
+                0x000003c6       0x21 CMakeFiles/FOC_GCC.elf.dir/project/startup/startup_at32f435_437.s.obj
+ .ARM.attributes
+                0x000003e7       0x1e c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000405       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000439       0x1e c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000457       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000048b       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x000004bf       0x1c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x000004db       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000050f       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000543       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000577       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x000005ab       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x000005df       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000613       0x1e c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+OUTPUT(FOC_GCC.elf elf32-littlearm)
+LOAD linker stubs
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+
+.debug_info     0x00000000    0x19829
+ .debug_info    0x00000000     0x204c CMakeFiles/FOC_GCC.elf.dir/libraries/cmsis/cm4/device_support/system_at32f435_437.c.obj
+ .debug_info    0x0000204c     0x3222 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .debug_info    0x0000526e     0x1a0e CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+ .debug_info    0x00006c7c      0xb6b CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_misc.c.obj
+ .debug_info    0x000077e7     0x2d31 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .debug_info    0x0000a518      0x2e0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/list.c.obj
+ .debug_info    0x0000a7f8      0x587 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+ .debug_info    0x0000ad7f      0x5cb CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+ .debug_info    0x0000b34a     0x28c9 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .debug_info    0x0000dc13     0x3371 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .debug_info    0x00010f84     0x1ada CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .debug_info    0x00012a5e      0x130 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_int.c.obj
+ .debug_info    0x00012b8e     0x209b CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_wk_config.c.obj
+ .debug_info    0x00014c29     0x14f2 CMakeFiles/FOC_GCC.elf.dir/project/src/freertos_app.c.obj
+ .debug_info    0x0001611b     0x116f CMakeFiles/FOC_GCC.elf.dir/project/src/main.c.obj
+ .debug_info    0x0001728a     0x11eb CMakeFiles/FOC_GCC.elf.dir/project/src/wk_gpio.c.obj
+ .debug_info    0x00018475     0x1392 CMakeFiles/FOC_GCC.elf.dir/project/src/wk_system.c.obj
+ .debug_info    0x00019807       0x22 CMakeFiles/FOC_GCC.elf.dir/project/startup/startup_at32f435_437.s.obj
+
+.debug_abbrev   0x00000000     0x262b
+ .debug_abbrev  0x00000000      0x1c6 CMakeFiles/FOC_GCC.elf.dir/libraries/cmsis/cm4/device_support/system_at32f435_437.c.obj
+ .debug_abbrev  0x000001c6      0x2a5 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .debug_abbrev  0x0000046b      0x283 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+ .debug_abbrev  0x000006ee      0x26a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_misc.c.obj
+ .debug_abbrev  0x00000958      0x223 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .debug_abbrev  0x00000b7b      0x106 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/list.c.obj
+ .debug_abbrev  0x00000c81      0x26b CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+ .debug_abbrev  0x00000eec      0x24b CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+ .debug_abbrev  0x00001137      0x337 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .debug_abbrev  0x0000146e      0x32b CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .debug_abbrev  0x00001799      0x30c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .debug_abbrev  0x00001aa5       0x7e CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_int.c.obj
+ .debug_abbrev  0x00001b23      0x34c CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_wk_config.c.obj
+ .debug_abbrev  0x00001e6f      0x257 CMakeFiles/FOC_GCC.elf.dir/project/src/freertos_app.c.obj
+ .debug_abbrev  0x000020c6      0x19c CMakeFiles/FOC_GCC.elf.dir/project/src/main.c.obj
+ .debug_abbrev  0x00002262      0x1ba CMakeFiles/FOC_GCC.elf.dir/project/src/wk_gpio.c.obj
+ .debug_abbrev  0x0000241c      0x1fd CMakeFiles/FOC_GCC.elf.dir/project/src/wk_system.c.obj
+ .debug_abbrev  0x00002619       0x12 CMakeFiles/FOC_GCC.elf.dir/project/startup/startup_at32f435_437.s.obj
+
+.debug_loc      0x00000000     0x7e13
+ .debug_loc     0x00000000      0x1af CMakeFiles/FOC_GCC.elf.dir/libraries/cmsis/cm4/device_support/system_at32f435_437.c.obj
+ .debug_loc     0x000001af      0x99c CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .debug_loc     0x00000b4b      0x385 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+ .debug_loc     0x00000ed0      0x39b CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_misc.c.obj
+ .debug_loc     0x0000126b      0xc65 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .debug_loc     0x00001ed0       0xad CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/list.c.obj
+ .debug_loc     0x00001f7d      0x124 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+ .debug_loc     0x000020a1      0x444 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+ .debug_loc     0x000024e5     0x1b2b CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .debug_loc     0x00004010     0x283a CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .debug_loc     0x0000684a     0x1156 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .debug_loc     0x000079a0      0x3d5 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_wk_config.c.obj
+ .debug_loc     0x00007d75       0x25 CMakeFiles/FOC_GCC.elf.dir/project/src/freertos_app.c.obj
+ .debug_loc     0x00007d9a       0x79 CMakeFiles/FOC_GCC.elf.dir/project/src/wk_system.c.obj
+
+.debug_aranges  0x00000000      0xaf8
+ .debug_aranges
+                0x00000000       0x28 CMakeFiles/FOC_GCC.elf.dir/libraries/cmsis/cm4/device_support/system_at32f435_437.c.obj
+ .debug_aranges
+                0x00000028      0x138 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .debug_aranges
+                0x00000160       0x88 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+ .debug_aranges
+                0x000001e8       0x50 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_misc.c.obj
+ .debug_aranges
+                0x00000238      0x1e8 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .debug_aranges
+                0x00000420       0x40 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/list.c.obj
+ .debug_aranges
+                0x00000460       0x80 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+ .debug_aranges
+                0x000004e0       0x58 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+ .debug_aranges
+                0x00000538      0x158 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .debug_aranges
+                0x00000690      0x208 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .debug_aranges
+                0x00000898       0xf0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .debug_aranges
+                0x00000988       0x58 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_int.c.obj
+ .debug_aranges
+                0x000009e0       0x30 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_wk_config.c.obj
+ .debug_aranges
+                0x00000a10       0x40 CMakeFiles/FOC_GCC.elf.dir/project/src/freertos_app.c.obj
+ .debug_aranges
+                0x00000a50       0x20 CMakeFiles/FOC_GCC.elf.dir/project/src/main.c.obj
+ .debug_aranges
+                0x00000a70       0x20 CMakeFiles/FOC_GCC.elf.dir/project/src/wk_gpio.c.obj
+ .debug_aranges
+                0x00000a90       0x40 CMakeFiles/FOC_GCC.elf.dir/project/src/wk_system.c.obj
+ .debug_aranges
+                0x00000ad0       0x28 CMakeFiles/FOC_GCC.elf.dir/project/startup/startup_at32f435_437.s.obj
+
+.debug_ranges   0x00000000      0xca0
+ .debug_ranges  0x00000000       0x18 CMakeFiles/FOC_GCC.elf.dir/libraries/cmsis/cm4/device_support/system_at32f435_437.c.obj
+ .debug_ranges  0x00000018      0x128 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .debug_ranges  0x00000140       0x78 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+ .debug_ranges  0x000001b8       0x70 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_misc.c.obj
+ .debug_ranges  0x00000228      0x1d8 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .debug_ranges  0x00000400       0x30 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/list.c.obj
+ .debug_ranges  0x00000430       0x88 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+ .debug_ranges  0x000004b8       0x48 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+ .debug_ranges  0x00000500      0x218 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .debug_ranges  0x00000718      0x370 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .debug_ranges  0x00000a88       0xe0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .debug_ranges  0x00000b68       0x48 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_int.c.obj
+ .debug_ranges  0x00000bb0       0x50 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_wk_config.c.obj
+ .debug_ranges  0x00000c00       0x30 CMakeFiles/FOC_GCC.elf.dir/project/src/freertos_app.c.obj
+ .debug_ranges  0x00000c30       0x10 CMakeFiles/FOC_GCC.elf.dir/project/src/main.c.obj
+ .debug_ranges  0x00000c40       0x10 CMakeFiles/FOC_GCC.elf.dir/project/src/wk_gpio.c.obj
+ .debug_ranges  0x00000c50       0x30 CMakeFiles/FOC_GCC.elf.dir/project/src/wk_system.c.obj
+ .debug_ranges  0x00000c80       0x20 CMakeFiles/FOC_GCC.elf.dir/project/startup/startup_at32f435_437.s.obj
+
+.debug_line     0x00000000     0xa91d
+ .debug_line    0x00000000      0x345 CMakeFiles/FOC_GCC.elf.dir/libraries/cmsis/cm4/device_support/system_at32f435_437.c.obj
+ .debug_line    0x00000345      0xb74 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .debug_line    0x00000eb9      0x511 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+ .debug_line    0x000013ca      0x448 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_misc.c.obj
+ .debug_line    0x00001812     0x106a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .debug_line    0x0000287c      0x35a CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/list.c.obj
+ .debug_line    0x00002bd6      0x722 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+ .debug_line    0x000032f8      0x71b CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+ .debug_line    0x00003a13     0x213f CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .debug_line    0x00005b52     0x2eec CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .debug_line    0x00008a3e      0xeee CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .debug_line    0x0000992c      0x17c CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_int.c.obj
+ .debug_line    0x00009aa8      0x513 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_wk_config.c.obj
+ .debug_line    0x00009fbb      0x2f6 CMakeFiles/FOC_GCC.elf.dir/project/src/freertos_app.c.obj
+ .debug_line    0x0000a2b1      0x1e1 CMakeFiles/FOC_GCC.elf.dir/project/src/main.c.obj
+ .debug_line    0x0000a492      0x175 CMakeFiles/FOC_GCC.elf.dir/project/src/wk_gpio.c.obj
+ .debug_line    0x0000a607      0x27a CMakeFiles/FOC_GCC.elf.dir/project/src/wk_system.c.obj
+ .debug_line    0x0000a881       0x9c CMakeFiles/FOC_GCC.elf.dir/project/startup/startup_at32f435_437.s.obj
+
+.debug_str      0x00000000     0x86f7
+ .debug_str     0x00000000      0xea9 CMakeFiles/FOC_GCC.elf.dir/libraries/cmsis/cm4/device_support/system_at32f435_437.c.obj
+                                0xf55 (size before relaxing)
+ .debug_str     0x00000ea9     0x1fda CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+                               0x2cff (size before relaxing)
+ .debug_str     0x00002e83      0x995 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+                               0x10d5 (size before relaxing)
+ .debug_str     0x00003818      0xa07 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_misc.c.obj
+                                0xc63 (size before relaxing)
+ .debug_str     0x0000421f     0x1988 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+                               0x22a5 (size before relaxing)
+ .debug_str     0x00005ba7      0x163 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/list.c.obj
+                                0x324 (size before relaxing)
+ .debug_str     0x00005d0a      0x2b4 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+                                0x4a6 (size before relaxing)
+ .debug_str     0x00005fbe      0x30f CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+                                0x532 (size before relaxing)
+ .debug_str     0x000062cd      0x975 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+                                0xd3a (size before relaxing)
+ .debug_str     0x00006c42      0xc87 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+                               0x137a (size before relaxing)
+ .debug_str     0x000078c9      0x5d9 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+                                0xc6a (size before relaxing)
+ .debug_str     0x00007ea2       0xd9 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_int.c.obj
+                                0x274 (size before relaxing)
+ .debug_str     0x00007f7b      0x4cb CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_wk_config.c.obj
+                               0x1802 (size before relaxing)
+ .debug_str     0x00008446      0x148 CMakeFiles/FOC_GCC.elf.dir/project/src/freertos_app.c.obj
+                                0xad7 (size before relaxing)
+ .debug_str     0x0000858e       0x5e CMakeFiles/FOC_GCC.elf.dir/project/src/main.c.obj
+                                0x718 (size before relaxing)
+ .debug_str     0x000085ec       0x30 CMakeFiles/FOC_GCC.elf.dir/project/src/wk_gpio.c.obj
+                                0x82f (size before relaxing)
+ .debug_str     0x0000861c       0x8c CMakeFiles/FOC_GCC.elf.dir/project/src/wk_system.c.obj
+                                0x935 (size before relaxing)
+ .debug_str     0x000086a8       0x4f CMakeFiles/FOC_GCC.elf.dir/project/startup/startup_at32f435_437.s.obj
+                                 0x7b (size before relaxing)
+
+.comment        0x00000000       0x49
+ .comment       0x00000000       0x49 CMakeFiles/FOC_GCC.elf.dir/libraries/cmsis/cm4/device_support/system_at32f435_437.c.obj
+                                 0x4a (size before relaxing)
+ .comment       0x00000049       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_misc.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/list.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_int.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_wk_config.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/FOC_GCC.elf.dir/project/src/freertos_app.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/FOC_GCC.elf.dir/project/src/main.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/FOC_GCC.elf.dir/project/src/wk_gpio.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/FOC_GCC.elf.dir/project/src/wk_system.c.obj
+
+.debug_frame    0x00000000     0x1d3c
+ .debug_frame   0x00000000       0x38 CMakeFiles/FOC_GCC.elf.dir/libraries/cmsis/cm4/device_support/system_at32f435_437.c.obj
+ .debug_frame   0x00000038      0x294 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_crm.c.obj
+ .debug_frame   0x000002cc      0x104 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_gpio.c.obj
+ .debug_frame   0x000003d0       0x88 CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_misc.c.obj
+ .debug_frame   0x00000458      0x3fc CMakeFiles/FOC_GCC.elf.dir/libraries/drivers/src/at32f435_437_tmr.c.obj
+ .debug_frame   0x00000854       0x70 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/list.c.obj
+ .debug_frame   0x000008c4      0x110 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/GCC/ARM_CM4F/port.c.obj
+ .debug_frame   0x000009d4       0xd0 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/portable/memmang/heap_4.c.obj
+ .debug_frame   0x00000aa4      0x458 CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/queue.c.obj
+ .debug_frame   0x00000efc      0x68c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/tasks.c.obj
+ .debug_frame   0x00001588      0x30c CMakeFiles/FOC_GCC.elf.dir/project/freertos/source/timers.c.obj
+ .debug_frame   0x00001894       0xa0 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_int.c.obj
+ .debug_frame   0x00001934       0x58 CMakeFiles/FOC_GCC.elf.dir/project/src/at32f435_437_wk_config.c.obj
+ .debug_frame   0x0000198c       0x7c CMakeFiles/FOC_GCC.elf.dir/project/src/freertos_app.c.obj
+ .debug_frame   0x00001a08       0x28 CMakeFiles/FOC_GCC.elf.dir/project/src/main.c.obj
+ .debug_frame   0x00001a30       0x30 CMakeFiles/FOC_GCC.elf.dir/project/src/wk_gpio.c.obj
+ .debug_frame   0x00001a60       0x84 CMakeFiles/FOC_GCC.elf.dir/project/src/wk_system.c.obj
+ .debug_frame   0x00001ae4       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00001b10       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00001b44       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-init.o)
+ .debug_frame   0x00001b70       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memset.o)
+ .debug_frame   0x00001b9c       0x68 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00001c04       0x20 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-atexit.o)
+ .debug_frame   0x00001c24       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fini.o)
+ .debug_frame   0x00001c58       0xb0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+ .debug_frame   0x00001d08       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__atexit.o)

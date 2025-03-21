@@ -1,0 +1,3 @@
+D:/MCU/AT/Project/FOC_GCC/cmake-build-debug/CMakeFiles/FOC_GCC.elf.dir
+D:/MCU/AT/Project/FOC_GCC/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/MCU/AT/Project/FOC_GCC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
